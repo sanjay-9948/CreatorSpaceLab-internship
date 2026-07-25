@@ -53,15 +53,9 @@ During this internship, I worked on real-world datasets to perform:
 ```
 CreatorSpaceLab-Internship/
 │
-├── Task 1
-├── Task 2
-├── Task 3
-├── Task 4
-├── Task 5
 ├── Dashboards
 ├── Reports
 ├── Datasets
-├── Images
 └── README.md
 ```
 
