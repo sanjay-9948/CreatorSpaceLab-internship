@@ -6,7 +6,7 @@ This repository contains all the tasks, projects, reports, and dashboards comple
 
 ## 👨‍💻 About Me
 
-**Name:** Sanjay Yendluri
+**Name:** Yendluri Sanjay vardhan
 
 🎓 B.Tech – Computer Science Engineering (AI & Data Science)
 
