@@ -134,23 +134,6 @@ This dashboard provides insights into healthcare data using Power BI.
 
 ---
 
-# 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-Images/HealthcareDashboard.png
-```
-
-or
-
-```markdown
-![Dashboard](Images/HealthcareDashboard.png)
-```
-
----
 
 # 📚 What I Learned
 
@@ -187,26 +170,5 @@ During this internship, I improved my understanding of:
 - Integrate SQL databases
 - Automate dashboard refresh
 
----
-
-# 📬 Connect With Me
-
-**GitHub**
-
-https://github.com/sanjay-9948
-
-**LinkedIn**
-
-(Add your LinkedIn profile)
 
 ---
-
-# ⭐ If you found this repository helpful
-
-Please consider giving it a ⭐ on GitHub!
-
----
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
