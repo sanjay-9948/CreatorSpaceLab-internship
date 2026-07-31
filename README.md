@@ -52,7 +52,7 @@ During this internship, I worked on real-world datasets to perform:
 
 ```
 CreatorSpaceLab-Internship/
-│
+│-- Healthcare_Prediction_Model
 ├── Dashboards
 ├── Reports
 ├── Datasets
